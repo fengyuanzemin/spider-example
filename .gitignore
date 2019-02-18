@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+.idea
+cookie.js
+node_modules
+cheerio.json
+ajax.json
+regexp.json
+firstPage.json
